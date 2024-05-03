@@ -14,3 +14,7 @@ Uses:
 ## Project Status
 
 Ended development. 
+
+## Development duration
+
+January 2023 - March 2023
